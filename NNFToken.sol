@@ -160,7 +160,7 @@ contract StandardToken is ERC20, BasicToken {
 contract Nicnacfinancialcoin is StandardToken {
   string public constant standard = "ERC20";
   string public constant name = "Nicnacfinancialcoin";
-  string public constant symbol = "NFT";
+  string public constant symbol = "NNF";
   uint8 public constant decimals = 8;
 
   function Nicnacfinancialcoin() public {
